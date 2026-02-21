@@ -49,3 +49,12 @@ This project analyzes how Bitcoin Fear & Greed Index sentiment influences trader
 
 ## Tools Used
 Python, Pandas, Matplotlib
+
+This analysis demonstrates how trader behavior shifts under different sentiment regimes. 
+By identifying profitability patterns and risk-taking tendencies, trading systems can:
+
+- Adjust position sizing dynamically
+- Reduce overtrading during panic conditions
+- Exploit bullish momentum during strong sentiment phases
+
+This approach can improve risk-adjusted returns and strategy stability.
