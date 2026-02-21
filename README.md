@@ -2,6 +2,9 @@
 Analysis of trader performance vs Bitcoin Fear/Greed sentiment
 # Trader Performance vs Market Sentiment Analysis
 
+Author: Anusha N C Gowda  
+Role: AIML Student | Data Analytics Enthusiast
+
 ## Objective
 This project analyzes how Bitcoin Fear & Greed Index sentiment influences trader behavior and performance. The goal is to identify behavioral patterns and derive actionable strategy recommendations.
 
